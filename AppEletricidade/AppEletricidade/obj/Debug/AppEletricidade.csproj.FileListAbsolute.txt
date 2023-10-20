@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\AppEletricidade\AppEletricidade\bin\Debug\AppEletricidade.exe.config
+C:\Users\DELL\source\repos\AppEletricidade\AppEletricidade\bin\Debug\AppEletricidade.exe
+C:\Users\DELL\source\repos\AppEletricidade\AppEletricidade\bin\Debug\AppEletricidade.pdb
+C:\Users\DELL\source\repos\AppEletricidade\AppEletricidade\obj\Debug\AppEletricidade.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\AppEletricidade\AppEletricidade\obj\Debug\AppEletricidade.Properties.Resources.resources
+C:\Users\DELL\source\repos\AppEletricidade\AppEletricidade\obj\Debug\AppEletricidade.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\AppEletricidade\AppEletricidade\obj\Debug\AppEletricidade.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AppEletricidade\AppEletricidade\obj\Debug\AppEletricidade.exe
+C:\Users\DELL\source\repos\AppEletricidade\AppEletricidade\obj\Debug\AppEletricidade.pdb
+C:\Users\DELL\source\repos\AppEletricidade\AppEletricidade\obj\Debug\AppEletricidade.Tela_Inicial.resources
